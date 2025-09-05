@@ -13,7 +13,7 @@ A sample ASP.NET Core Web API that integrates with the [Open Brewery DB](https:/
 ## 🚀 Getting Started
 
 ### 1. Clone the repo
-git clone https://github.com/divnit/Brewery
+git clone https://github.com/divnit/BrewerySolution
 cd BrewerySolution
 
 
